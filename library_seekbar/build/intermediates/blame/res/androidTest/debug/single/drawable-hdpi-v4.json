@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/seek_thumb_normal.png",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/bundles/debug/res/drawable-hdpi-v4/seek_thumb_normal.png"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/seek_thumb_pressed.png",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/library_seekbar/build/intermediates/bundles/debug/res/drawable-hdpi-v4/seek_thumb_pressed.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_visa.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_visa.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_amex.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_amex.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_error.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_error.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_cvc.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_cvc.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_discover.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_discover.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_jcb.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_jcb.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_error_amex.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_error_amex.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_unknown.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_unknown.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_diners.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_diners.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_cvc_amex.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_mastercard.xml",
+        "source": "/home/sonali/AndroidStudioProjects/Goalkeeper/stripe/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_mastercard.xml"
+    }
+]

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_row"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:background="@color/color_white"
+    android:elevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:orientation="vertical">
+
+        <com.mxi.goalkeeper.font.MyTextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="3dp"
+            android:padding="4dp"
+            android:text="Sonali Bharati"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Color_black_text" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/color_gray_text" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:padding="4dp">
+
+            <com.mxi.goalkeeper.font.MyTextView
+                android:id="@+id/tv_caliber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|left"
+                android:layout_weight="1"
+                android:gravity="center|left"
+                android:padding="4dp"
+                android:text="Caliber :"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_black_text" />
+
+            <com.mxi.goalkeeper.font.MyTextView
+                android:id="@+id/tv_playing_for"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center|left"
+                android:padding="4dp"
+                android:text="Playing for free"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_black_text" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/color_gray_text" />
+
+        <com.mxi.goalkeeper.font.MyTextView
+            android:id="@+id/tv_self_rating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:padding="4dp"
+            android:text="Self Ratting :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Color_black_text" />
+
+
+    </LinearLayout>
+</LinearLayout>
